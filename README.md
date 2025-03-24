@@ -1,9 +1,6 @@
 # Competitive Programming
 My own templates and implementation of important algorithms and data structures for competitive programming
 
-
-My profile: [Codeforces](https://codeforces.com/profile/ncduy0303), [AtCoder](https://atcoder.jp/users/ncduy0303)
-
 ## Contest templates
   - [My template C++](Contest%20Template/main.cpp)
 
